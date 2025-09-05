@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>$(MSBuildProjectName)</AssemblyName>
+    <TargetFramework>netframework4.8</TargetFramework>
+    <Nullable>enable</Nullable>
+    <LangVersion>8</LangVersion>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <Reference Include="custom_item_components">
+      <HintPath>..\..\..\..\..\..\Games\Derail Valley\Mods\CustomItemMod\custom_item_components.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="UnityEngine" />
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>..\..\..\..\..\..\Games\Derail Valley\DerailValley_Data\Managed\UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule" />
+    <Reference Include="UnityEditor" />
+  </ItemGroup>
+</Project>

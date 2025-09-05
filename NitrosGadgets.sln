@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NitrosGadgets.Game", "NitrosGadgets.Game\NitrosGadgets.Game.csproj", "{5BB8F98B-1959-441C-ADC6-A5E614816303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NitrosGadgets.Unity", "NitrosGadgets.Unity\NitrosGadgets.Unity.csproj", "{ACAC093A-07FD-44AE-8687-A0CCD7DFB4B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BB8F98B-1959-441C-ADC6-A5E614816303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB8F98B-1959-441C-ADC6-A5E614816303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB8F98B-1959-441C-ADC6-A5E614816303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB8F98B-1959-441C-ADC6-A5E614816303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACAC093A-07FD-44AE-8687-A0CCD7DFB4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAC093A-07FD-44AE-8687-A0CCD7DFB4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAC093A-07FD-44AE-8687-A0CCD7DFB4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAC093A-07FD-44AE-8687-A0CCD7DFB4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {317E8194-842F-4B6C-AFF6-FD5B13ECD6C8}
+	EndGlobalSection
+EndGlobal
