@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3438072569
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62942e2761a2feb031202cf377ad660e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82aaaa4871f5fa9742fdf6ad2486ad63
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 466460747, guid: 433c5fdf4f8711441b15accaa19cbdd3, type: 3}
+- Class: 114
+  Script: {fileID: 1368475075, guid: 192de4347246b4c44abb8c8f9daa281b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 137647868, guid: 433c5fdf4f8711441b15accaa19cbdd3, type: 3}
+- Class: 114
+  Script: {fileID: -1049915317, guid: 433c5fdf4f8711441b15accaa19cbdd3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Texture2D/WheelslipIndicator_Icon_Dropped.png
+- Assets/Prefabs/WheelslipIndicator_Gadget.prefab
+- Assets/Prefabs/WheelslipIndicator.prefab
+- Assets/Prefabs/WheelslipIndicator_ShelfItem.prefab
+- Assets/Texture2D/WheelslipIndicator_Icon.png
+Dependencies: []

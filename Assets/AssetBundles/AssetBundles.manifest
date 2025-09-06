@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 864259416
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: wheelslipindicatorbundle
+      Dependencies: {}
+    Info_1:
+      Name: analogodometerbundle
+      Dependencies: {}
